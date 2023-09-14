@@ -33,14 +33,6 @@
     </item>
     
     <item>
-      <title>Wowchemy Hugo Academic Website template</title>
-      <link>https://hanminlli.github.io/post/jupyter/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanminlli.github.io/post/jupyter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Det-CGD: Compressed Gradient Descent with Matrix Stepsizes for Non-Convex Optimization</title>
       <link>https://hanminlli.github.io/publication/preprint/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
@@ -57,6 +49,15 @@
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 --&gt;</description>
+    </item>
+    
+    <item>
+      <title>A new journey</title>
+      <link>https://hanminlli.github.io/post/jupyter/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://hanminlli.github.io/post/jupyter/</guid>
+      <description>&lt;p&gt;After graduating with Master of Engineering degree at &lt;a href=&#34;https://www.kaust.edu.sa/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;King Abdullah University of Science and Technology (KAUST)&lt;/a&gt; in December 2022, I became a Ph.D. student here majored in computer science under the supervision of Prof. &lt;a href=&#34;https://richtarik.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter Richtárik&lt;/a&gt;. My research interests include optimization, federated learning and machine learning.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -272,7 +273,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-598417362&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-579683142&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -282,7 +283,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-598417362&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-579683142&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -706,25 +707,6 @@ $$&lt;/p&gt;
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://hanminlli.github.io/project/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://hanminlli.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://hanminlli.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>

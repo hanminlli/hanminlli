@@ -10,14 +10,6 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hanminlli.github.io/post/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hanminlli.github.io/post/jupyter/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://hanminlli.github.io/publication-type/3/</loc>
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -34,12 +26,12 @@
     <lastmod>2023-05-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hanminlli.github.io/tag/source-themes/</loc>
-    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
+    <loc>https://hanminlli.github.io/post/jupyter/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hanminlli.github.io/tags/</loc>
-    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
+    <loc>https://hanminlli.github.io/post/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hanminlli.github.io/</loc>
@@ -67,6 +59,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hanminlli.github.io/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanminlli.github.io/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -112,14 +108,6 @@
   </url><url>
     <loc>https://hanminlli.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hanminlli.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hanminlli.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hanminlli.github.io/admin/</loc>
