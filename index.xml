@@ -33,10 +33,38 @@
     </item>
     
     <item>
+      <title>New paper out</title>
+      <link>https://hanminlli.github.io/post/detmarina/index2/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://hanminlli.github.io/post/detmarina/index2/</guid>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;https://arxiv.org/abs/2310.04614&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MARINA Meets Matrix Stepsizes: Variance Reduced Distributed Non-convex Optimization&lt;/a&gt; is now on arXiv. In this work, we combine matrix stepsizes with MARINA type variance reduction for sketched gradient descent, the proposed algorithm, so called det-MARINA, is analyzed in the distributed non-convex setting . We establish theoretically and empirically, that det-MARINA outperforms both MARINA and the distributed det-CGD algorithms in terms of iteration and communication complexities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MARINA Meets Matrix Stepsizes: Variance Reduced Distributed Non-convex Optimization</title>
+      <link>https://hanminlli.github.io/publication/detmarina/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://hanminlli.github.io/publication/detmarina/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;</description>
+    </item>
+    
+    <item>
       <title>Det-CGD: Compressed Gradient Descent with Matrix Stepsizes for Non-Convex Optimization</title>
-      <link>https://hanminlli.github.io/publication/preprint/</link>
+      <link>https://hanminlli.github.io/publication/detcgd/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanminlli.github.io/publication/preprint/</guid>
+      <guid>https://hanminlli.github.io/publication/detcgd/</guid>
       <description>&lt;!--
 
 
@@ -62,9 +90,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>SD2: spatially resolved transcriptomics deconvolution through integration of dropout and spatial information</title>
-      <link>https://hanminlli.github.io/publication/journal-article/</link>
+      <link>https://hanminlli.github.io/publication/sd2/</link>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanminlli.github.io/publication/journal-article/</guid>
+      <guid>https://hanminlli.github.io/publication/sd2/</guid>
       <description>&lt;!--
 
 
@@ -273,7 +301,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-579683142&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-497123658&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -283,7 +311,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-579683142&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-497123658&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

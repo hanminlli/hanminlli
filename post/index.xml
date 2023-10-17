@@ -5,12 +5,21 @@
     <link>https://hanminlli.github.io/post/</link>
       <atom:link href="https://hanminlli.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hanminlli.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://hanminlli.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New paper out</title>
+      <link>https://hanminlli.github.io/post/detmarina/index2/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://hanminlli.github.io/post/detmarina/index2/</guid>
+      <description>&lt;p&gt;The paper &lt;a href=&#34;https://arxiv.org/abs/2310.04614&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MARINA Meets Matrix Stepsizes: Variance Reduced Distributed Non-convex Optimization&lt;/a&gt; is now on arXiv. In this work, we combine matrix stepsizes with MARINA type variance reduction for sketched gradient descent, the proposed algorithm, so called det-MARINA, is analyzed in the distributed non-convex setting . We establish theoretically and empirically, that det-MARINA outperforms both MARINA and the distributed det-CGD algorithms in terms of iteration and communication complexities.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A new journey</title>
