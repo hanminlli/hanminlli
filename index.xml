@@ -33,6 +33,25 @@
     </item>
     
     <item>
+      <title>The Power of Extrapolation in Federated Learning</title>
+      <link>https://hanminlli.github.io/publication/fedexprox/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://hanminlli.github.io/publication/fedexprox/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;</description>
+    </item>
+    
+    <item>
       <title>New paper out</title>
       <link>https://hanminlli.github.io/post/detmarina/index2/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
@@ -42,7 +61,7 @@
     </item>
     
     <item>
-      <title>MARINA Meets Matrix Stepsizes: Variance Reduced Distributed Non-convex Optimization</title>
+      <title>Variance Reduced Distributed Non-Convex Optimization Using Matrix Stepsizes</title>
       <link>https://hanminlli.github.io/publication/detmarina/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://hanminlli.github.io/publication/detmarina/</guid>
@@ -301,7 +320,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-497123658&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-864725391&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -311,7 +330,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-497123658&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-864725391&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

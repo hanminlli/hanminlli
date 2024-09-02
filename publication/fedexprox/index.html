@@ -276,12 +276,12 @@
 
   
 
-<meta name="description" content="The paper &#39;MARINA Meets Matrix Stepsizes: Variance Reduced Distributed Non-convex Optimization&#39; is now on arXiv" />
+<meta name="description" content="The theory of FedProx enhanced by extrapolation." />
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://hanminlli.github.io/post/detmarina/index2/" />
-<link rel="canonical" href="https://hanminlli.github.io/post/detmarina/index2/" />
+<link rel="alternate" hreflang="en-us" href="https://hanminlli.github.io/publication/fedexprox/" />
+<link rel="canonical" href="https://hanminlli.github.io/publication/fedexprox/" />
 
 
 
@@ -317,18 +317,18 @@
   <meta property="twitter:creator" content="@wowchemy" />
 <meta property="twitter:image" content="https://hanminlli.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
 <meta property="og:site_name" content="Hanmin Li" />
-<meta property="og:url" content="https://hanminlli.github.io/post/detmarina/index2/" />
-<meta property="og:title" content="New paper out | Hanmin Li" />
-<meta property="og:description" content="The paper &#39;MARINA Meets Matrix Stepsizes: Variance Reduced Distributed Non-convex Optimization&#39; is now on arXiv" /><meta property="og:image" content="https://hanminlli.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:url" content="https://hanminlli.github.io/publication/fedexprox/" />
+<meta property="og:title" content="The Power of Extrapolation in Federated Learning | Hanmin Li" />
+<meta property="og:description" content="The theory of FedProx enhanced by extrapolation." /><meta property="og:image" content="https://hanminlli.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2023-10-17T00:00:00&#43;00:00"
+      content="2024-05-01T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2023-10-17T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2024-05-01T00:00:00&#43;00:00">
   
 
 
@@ -343,23 +343,21 @@
 
 
 
-  
-
 
 
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "BlogPosting",
+  "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://hanminlli.github.io/post/detmarina/index2/"
+    "@id": "https://hanminlli.github.io/publication/fedexprox/"
   },
-  "headline": "New paper out",
+  "headline": "The Power of Extrapolation in Federated Learning",
   
-  "datePublished": "2023-10-17T00:00:00Z",
-  "dateModified": "2023-10-17T00:00:00Z",
+  "datePublished": "2024-05-01T00:00:00Z",
+  "dateModified": "2024-05-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -374,7 +372,7 @@
       "url": "https://hanminlli.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "The paper 'MARINA Meets Matrix Stepsizes: Variance Reduced Distributed Non-convex Optimization' is now on arXiv"
+  "description": "The theory of FedProx enhanced by extrapolation."
 }
 </script>
 
@@ -396,7 +394,7 @@
 
 
   
-  <title>New paper out | Hanmin Li</title>
+  <title>The Power of Extrapolation in Federated Learning | Hanmin Li</title>
 
   
   
@@ -416,7 +414,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="039adb875ab0ae6ab8dd56162632b1f5" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="64e5c426acbb49796aaea90bf4f663fb" >
 
   
   
@@ -697,7 +695,16 @@
     
     
 
-    <article class="article">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
 
   
 
@@ -719,7 +726,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>New paper out</h1>
+  <h1>The Power of Extrapolation in Federated Learning</h1>
 
   
 
@@ -737,7 +744,9 @@
     
 
   <span class="author-highlighted">
-      Hanmin Li</span>
+      Hanmin Li</span>, <span >
+      Kirill Acharya</span>, <span >
+      Peter Richtárik</span>
   </div>
   
   
@@ -748,17 +757,12 @@
     
       
     
-    Oct 17, 2023
+    May, 2024
   </span>
   
 
   
 
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
   
 
   
@@ -776,6 +780,50 @@
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/2405.13766" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/fedexprox/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
@@ -784,10 +832,46 @@
 
   <div class="article-container">
 
-    <div class="article-style">
-      <p>The paper <a href="https://arxiv.org/abs/2310.04614" target="_blank" rel="noopener">MARINA Meets Matrix Stepsizes: Variance Reduced Distributed Non-convex Optimization</a> is now on arXiv. In this work, we combine matrix stepsizes with MARINA type variance reduction for sketched gradient descent, the proposed algorithm, so called det-MARINA, is analyzed in the distributed non-convex setting . We establish theoretically and empirically, that det-MARINA outperforms both MARINA and the distributed det-CGD algorithms in terms of iteration and communication complexities.</p>
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">We propose and study several server-extrapolation strategies for enhancing the theoretical and empirical convergence properties of the popular federated learning optimizer FedProx [Li et al., 2020]. While it has long been known that some form of extrapolation can help in the practice of FL, only a handful of works provide any theoretical guarantees. The phenomenon seems elusive, and our current theoretical understanding remains severely incomplete. In our work, we focus on smooth convex or strongly convex problems in the interpolation regime. In particular, we propose Extrapolated FedProx (FedExProx), and study three extrapolation strategies, a constant strategy (depending on various smoothness parameters and the number of participating devices), and two smoothness-adaptive strategies; one based on the notion of gradient diversity (FedExProx-GraDS), and the other one based on the stochastic Polyak stepsize (FedExProx-StoPS). Our theory is corroborated with carefully constructed numerical experiments.</p>
+    
 
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#3">
+              Preprint
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><!--
+
+
+<div class="alert alert-note">
+  <div>
+    Create your slides in Markdown - click the <em>Slides</em> button to check out the example.
+  </div>
+</div>
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--></div>
 
     
 
@@ -812,7 +896,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fhanminlli.github.io%2Fpost%2Fdetmarina%2Findex2%2F&amp;text=New&#43;paper&#43;out" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fhanminlli.github.io%2Fpublication%2Ffedexprox%2F&amp;text=The&#43;Power&#43;of&#43;Extrapolation&#43;in&#43;Federated&#43;Learning" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -831,7 +915,7 @@
         
       
       <li>
-        <a href="mailto:?subject=New%20paper%20out&amp;body=https%3A%2F%2Fhanminlli.github.io%2Fpost%2Fdetmarina%2Findex2%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=The%20Power%20of%20Extrapolation%20in%20Federated%20Learning&amp;body=https%3A%2F%2Fhanminlli.github.io%2Fpublication%2Ffedexprox%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -848,7 +932,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fhanminlli.github.io%2Fpost%2Fdetmarina%2Findex2%2F&amp;title=New&#43;paper&#43;out" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fhanminlli.github.io%2Fpublication%2Ffedexprox%2F&amp;title=The&#43;Power&#43;of&#43;Extrapolation&#43;in&#43;Federated&#43;Learning" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1015,6 +1099,18 @@
 
 
   
+    
+
+
+
+
+  
+    
+
+
+
+
+  
 
 
 
@@ -1032,7 +1128,7 @@
 
 
   </div>
-</article>
+</div>
   </div>
 
   <div class="page-footer">

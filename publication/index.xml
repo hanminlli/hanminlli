@@ -5,7 +5,7 @@
     <link>https://hanminlli.github.io/publication/</link>
       <atom:link href="https://hanminlli.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hanminlli.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,7 +13,26 @@
     </image>
     
     <item>
-      <title>MARINA Meets Matrix Stepsizes: Variance Reduced Distributed Non-convex Optimization</title>
+      <title>The Power of Extrapolation in Federated Learning</title>
+      <link>https://hanminlli.github.io/publication/fedexprox/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://hanminlli.github.io/publication/fedexprox/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Variance Reduced Distributed Non-Convex Optimization Using Matrix Stepsizes</title>
       <link>https://hanminlli.github.io/publication/detmarina/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://hanminlli.github.io/publication/detmarina/</guid>
