@@ -2,24 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hanminlli.github.io/talk/example-talk/</loc>
+    <loc>https://hanminlli.github.io/bak/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hanminlli.github.io/event/</loc>
+    <loc>https://hanminlli.github.io/bak/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hanminlli.github.io/publication-type/3/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanminlli.github.io/publication/inexactprox/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hanminlli.github.io/publication_types/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hanminlli.github.io/publication/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanminlli.github.io/talk/compressed-gradient-descent-with-matrix-stepsizes-for-non-convex-optimization./</loc>
+    <lastmod>2024-06-28T08:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanminlli.github.io/event/</loc>
+    <lastmod>2024-06-28T08:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanminlli.github.io/talk/det-cgd-compressed-gradient-descent-with-matrix-stepsizes-for-non-convex-optimization./</loc>
+    <lastmod>2024-05-07T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hanminlli.github.io/publication/fedexprox/</loc>
@@ -63,10 +79,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hanminlli.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hanminlli.github.io/bak/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
